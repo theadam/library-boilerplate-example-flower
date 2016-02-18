@@ -1,0 +1,22 @@
+{
+  "name": "example-name",
+  "context": {
+    "baseName": "project",
+    "githubUser": "theadam"
+  },
+  "operations": {
+    "discard": [
+      "README.md",
+      "flower.json"
+    ],
+    "parse": [
+      "package.json",
+      "webpack.config.js",
+      "index.html"
+    ],
+    "move": [
+     {
+     }
+    ]
+  }
+}
