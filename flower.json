@@ -1,9 +1,4 @@
 {
-  "name": "example-name",
-  "context": {
-    "baseName": "project",
-    "githubUser": "theadam"
-  },
   "operations": {
     "discard": [
       "README.md",
@@ -14,9 +9,6 @@
       "webpack.config.js",
       "index.html"
     ],
-    "move": [
-     {
-     }
-    ]
+    "move": []
   }
 }
